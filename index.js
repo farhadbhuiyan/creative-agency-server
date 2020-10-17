@@ -52,5 +52,5 @@ client.connect(err => {
 app.listen(process.env.PORT || port)
 
 /*=========================================================================
-  DUE TO MY EXAM I CAN NOT COMPLETE BACKEND AS PER AS PROJECT REQUIREMENTS
+  I couldn't finish the backend part completely because of my exam.
 =========================================================================*/
